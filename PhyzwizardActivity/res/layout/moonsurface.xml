@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    		android:orientation="vertical"
+    		android:layout_width="fill_parent"
+    		android:layout_height="fill_parent"
+    		android:gravity="center_vertical">
+			 <TextView
+            	android:text="CHOOSE A SURFACE TYPE:"
+          	    android:gravity="left"
+            	android:layout_width="match_parent"
+	    		android:layout_height="match_parent"
+	    		android:layout_weight="80"
+            	android:padding="2dip" />
+			<Button android:id="@+id/bMaria"
+	    		android:layout_width="match_parent"
+	    		android:layout_height="match_parent"
+	    		android:layout_weight="50"
+	    		android:padding="10dp"
+	    		android:background="@drawable/moon_maria"
+	    		android:text="@string/btn_maria" />
+
+			<Button
+	    		android:id="@+id/bCrater"
+	    		android:layout_width="match_parent"
+	    		android:layout_height="match_parent"
+	    		android:layout_weight="50"
+	    		android:padding="10dp"
+	    		android:background="@drawable/moon_craters"
+	    		android:text="@string/btn_crater" />
+	    		
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phyzwizard</string>
+    <string name="btn_newgame">New Game</string>
+    <string name="btn_earth">Earth</string>
+    <string name="btn_moon">Moon</string>
+    <string name="btn_mars">Mars</string>
+    <string name="btn_saturn">Saturn</string>
+    <string name="btn_ice">Ice</string>
+    <string name="btn_maria">Maria</string>
+    <string name="btn_crater">Craters</string>
+    <string name="btn_plane">Plane</string>
+    <string name="btn_rock">Rocks</string>
+    <string name="btn_wood">Wood</string>
+    <string name="btn_titan">Titan</string>
+    <string name="btn_enceladus">Enceladus</string>
+    <string name="btn_exit">Exit</string>
+    <string name="levelSelect">Select Level</string>
+    <string name="finished_title">Congrats</string>
+    <string name="finished_text">Level Cleared</string>
+    <string name="finished_button">Game Over!!!</string>
+</resources>
